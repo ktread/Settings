@@ -1,0 +1,1 @@
+jt -t onedork -fs 8 -cellw 95% -kl -f hasklig  
